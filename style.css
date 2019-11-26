@@ -50,12 +50,21 @@ h1, h2 {
 }
 
 #text3 {
-  margin-top: 50%;
+  margin-top: 65%;
   margin-bottom: 100px;
-
 }
 
 #text3 img {
   margin-left: auto;
   margin-right: auto;
+}
+
+#wheel1 {
+  width: 30%;
+  height: auto;
+}
+
+#wheel2 {
+  width: 30%;
+  height: auto;
 }
