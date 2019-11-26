@@ -1,15 +1,11 @@
 body, html {
   height: 100%;
+  
 }
 
 h1, h2 {
   color: hsl(138, 74%, 28%);
   opacity: 1;
-  font-size:4vw; 
-}
-
-h3, h4 {
-  font-size:2vw;
 }
 
 .logo img {
@@ -35,6 +31,7 @@ h3, h4 {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  vertical-align: baseline;
 }
 
 #box {
